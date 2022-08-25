@@ -20,6 +20,8 @@ jobs:
       - shell: bash
         run: |
           ./getUrls.sh
+        env:
+          HORARIUS_KEY: ${{ secrets.HORARIUS_KEY }}
 
       - name: Upload website to artifact
         uses: actions/upload-artifact@v2
