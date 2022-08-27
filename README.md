@@ -2,7 +2,7 @@
 
 ## Problème
 
-L'horaire sur horarius est souvent mis à jour, mais ne peux pas savoir ce qui est mis à jour, ni à quel moment.
+L'horaire sur horarius est souvent mis à jour, mais on ne peux pas savoir ce qui est mis à jour, ni à quel moment.
 
 ## Solution
 
@@ -10,7 +10,7 @@ L'horaire sur horarius est souvent mis à jour, mais ne peux pas savoir ce qui e
 
 ## Fonctionnalités
 
-- Notification avec le flux `Atom` des commit: https://github.com/mdaoustUdeS/gegi-horarius/commits.atom
+- Notification des changements avec le flux `Atom` des commit: https://github.com/mdaoustUdeS/gegi-horarius/commits.atom
 - Changements lorsque les groupes de tutorat sont connu (horarius retire les événements qui ne sont plus pertinent)
 - Changements lisibles dans un CSV pour les propriétés:
   - Heure de début et de fin (`DTSTART` et `DTEND`)
