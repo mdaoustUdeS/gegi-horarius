@@ -21,6 +21,7 @@
 20220909T130000;20220909T170000;C1-5001;APP 1 : Examen sommatif;Éléments de statique et de dynamique\n\nL'examen se termine à 1
 20220912T090000;20220912T103000;C1-5118;APP 2 : Tutorat 1;Principes de dynamique et méthodes numériques\n\nT1
 20220913T090000;20220913T120000;C1-4113;GEN550 : Procédural 1 - PRÉSENCE OBLIGATOIRE;Impacts éthiques du développement technologique en ingénierie\n
+20220913T120000;20220913T123000;;APP 2 : Rencontre intendant;Principes de dynamique et méthodes numériques\n\nRencontre inte
 20220914T090000;20220914T120000;C1-3035;APP 2 : Procédural 1;Principes de dynamique et méthodes numériques\n\nG1
 20220914T130000;20220914T160000;C1-5009;APP 2 : Laboratoire 1;Principes de dynamique et méthodes numériques\n\nG1
 20220915T130000;20220915T150000;C1-3018;Laboratoire Blender;Projet - GI\n\n
@@ -35,6 +36,7 @@
 20220923T130000;20220923T170000;C1-5028;APP 2 : Examen sommatif - Pratique;Principes de dynamique et méthodes numériques\n\nL'examen se te
 20220926T090000;20220926T103000;C1-5119;APP 3 Informatique : Tutorat 1;Traitement numérique des signaux\n\nT1
 20220926T110000;20220926T123000;C1-5119;APP 3 Informatique : Tutorat 1;Traitement numérique des signaux\n\nT2
+20220926T150000;20220926T153000;;APP 3 Informatique : Rencontre intendant;Traitement numérique des signaux\n\nRencontre intendants GEGI A
 20220927T090000;20220927T120000;C1-3041;GEN550 : Procédural 2 - PRÉSENCE OBLIGATOIRE;Impacts éthiques du développement technologique en ingénierie\n
 20220927T130000;20220927T160000;C1-3041;APP 3 Informatique : Procédural 1;Traitement numérique des signaux\n\n
 20220928T090000;20220928T120000;C1-3125;APP 3 Informatique : Procédural 2 / Laboratoire 1 ;Traitement numérique des signaux\n\nPort obligatoire du masque 
@@ -53,6 +55,7 @@
 20221011T090000;20221011T103000;C1-5126;APP 4 Informatique : Tutorat 1;Algèbre linéaire et filtres numériques\n\nT1
 20221011T110000;20221011T123000;C1-5126;APP 4 Informatique : Tutorat 1;Algèbre linéaire et filtres numériques\n\nT2
 20221012T090000;20221012T120000;C1-3041;APP 4 Informatique : Procédural 1;Algèbre linéaire et filtres numériques\n\n
+20221012T120000;20221012T123000;;APP 4 Informatique : Rencontre intendant;Algèbre linéaire et filtres numériques\n\nRencontre intendants 
 20221012T130000;20221012T160000;C1-5009;APP 4 Informatique : Laboratoire 1;Algèbre linéaire et filtres numériques\n\n
 20221013T130000;20221013T150000;C1-4113;Rapport 1 et Audit de mi-session;Projet - GI\n\nMasque de procédure obligatoire tout le long de 
 20221014T090000;20221014T120000;C1-3035;APP 4 Informatique : Procédural 2;Algèbre linéaire et filtres numériques\n\n
@@ -70,6 +73,7 @@
 20221104T103000;20221104T120000;C1-4115;GEN550 : Procédural 4 - PRÉSENCE OBLIGATOIRE;Impacts éthiques du développement technologique en ingénierie\n
 20221107T090000;20221107T103000;C1-5125;APP 5 Informatique : Tutorat 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\nT1
 20221107T110000;20221107T123000;C1-5125;APP 5 Informatique : Tutorat 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\nT2
+20221107T123000;20221107T130000;C1-5120;APP 5 Informatique : Rencontre intendant;Probabilités\, Statistiques et Simulations Monte Carlo\n\nRenco
 20221109T090000;20221109T120000;C1-3041;APP 5 Informatique : Procédural 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\n
 20221110T130000;20221110T150000;C1-3041;Présentation méthode de validation pour comparaison véhicule/modèle;Projet - GI\n\n
 20221111T090000;20221111T120000;C1-3035;APP 5 Informatique : Procédural 2;Probabilités\, Statistiques et Simulations Monte Carlo\n\n
@@ -84,6 +88,7 @@
 20221124T130000;20221124T150000;C1-3018;Suivi technique;Projet - GI\n\n
 20221125T090000;20221125T103000;C1-3035;APP 5 Informatique : Consultation facultative;Probabilités\, Statistiques et Simulations Monte Carlo\n\nLe po
 20221125T130000;20221125T170000;C1-3007;APP 5 Informatique : Examen sommatif;Probabilités\, Statistiques et Simulations Monte Carlo\n\nL'exa
+20221128T150000;20221128T153000;C1-5118;APP 5 Informatique : Rencontre intendant;Probabilités\, Statistiques et Simulations Monte Carlo\n\nRenco
 20221201T130000;20221201T150000;C1-3018;Suivi technique;Projet - GI\n\n
 20221205T090000;20221205T120000;C1-3014;Support technique  et tests sur le trajet de compétition;Projet - GI\n\n
 20221205T090000;20221205T120000;C1-3027;Support technique  et tests sur le trajet de compétition;Projet - GI\n\n
