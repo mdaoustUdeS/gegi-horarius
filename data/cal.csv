@@ -9,6 +9,7 @@
 20220831T130000;20220831T160000;C1-3018;APP 1 : Laboratoire 1;Éléments de statique et de dynamique\n\nG2
 20220901T080000;20220901T180000;;APP 1 : Suspension de cours;Éléments de statique et de dynamique\n\n
 20220902T090000;20220902T120000;C1-3035;APP 1 : Procédural 2;Éléments de statique et de dynamique\n\nG2
+20220902T120000;20220902T123000;C1-5120;APP 2 : Rencontre intendant;Principes de dynamique et méthodes numériques\n\nRencontre inte
 20220902T133000;20220902T150000;C1-3007;APP 1 : Consultation facultative;Éléments de statique et de dynamique\n\n
 20220905T080000;20220905T180000;;APP 1 : Congé;Éléments de statique et de dynamique\n\n
 20220906T130000;20220906T160000;C1-3018;APP 1 : Validation de la problématique;Éléments de statique et de dynamique\n\n
@@ -36,7 +37,7 @@
 20220923T130000;20220923T170000;C1-5028;APP 2 : Examen sommatif - Pratique;Principes de dynamique et méthodes numériques\n\nL'examen se te
 20220926T090000;20220926T103000;C1-5119;APP 3 Informatique : Tutorat 1;Traitement numérique des signaux\n\nT1
 20220926T110000;20220926T123000;C1-5119;APP 3 Informatique : Tutorat 1;Traitement numérique des signaux\n\nT2
-20220926T150000;20220926T153000;C1-5118;APP 2 : Rencontre intendant;Principes de dynamique et méthodes numériques\n\nRencontre inte
+20220927T120000;20220927T123000;C1-5118;APP 2 : Rencontre intendant;Principes de dynamique et méthodes numériques\n\nRencontre inte
 20220927T130000;20220927T160000;C1-3041;APP 3 Informatique : Procédural 1;Traitement numérique des signaux\n\n
 20220928T090000;20220928T120000;C1-3125;APP 3 Informatique : Procédural 2 / Laboratoire 1 ;Traitement numérique des signaux\n\nPort obligatoire du masque 
 20220929T090000;20220929T120000;C1-3041;GEN550 : Procédural 2 - PRÉSENCE OBLIGATOIRE;Impacts éthiques du développement technologique en ingénierie\n
@@ -71,7 +72,7 @@
 20221107T090000;20221107T103000;C1-5125;APP 5 Informatique : Tutorat 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\nT1
 20221107T110000;20221107T123000;C1-5125;APP 5 Informatique : Tutorat 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\nT2
 20221107T133000;20221107T150000;C1-5125;APP 5 Informatique : Tutorat 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\nT3
-20221107T150000;20221107T153000;C1-5120;APP 4 Informatique : Rencontre intendant;Algèbre linéaire et filtres numériques\n\nRencontre intendants.  
+20221108T120000;20221108T123000;C1-5119;APP 4 Informatique : Rencontre intendant;Algèbre linéaire et filtres numériques\n\nRencontre intendants.  
 20221109T090000;20221109T120000;C1-3041;APP 5 Informatique : Procédural 1;Probabilités\, Statistiques et Simulations Monte Carlo\n\n
 20221110T130000;20221110T150000;C1-3041;Présentation méthode de validation pour comparaison véhicule/modèle;Projet - GI\n\n
 20221111T090000;20221111T120000;C1-3035;APP 5 Informatique : Procédural 2;Probabilités\, Statistiques et Simulations Monte Carlo\n\n
