@@ -50,6 +50,8 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -f *
+          git status
+          git diff
           echo "$(git diff)"
           git commit -m "Update $(date +%F) $(date +%R)" -m "--- Début des changements ---" -m "$(git diff)" -m "--- Fin des changements ---"
 
