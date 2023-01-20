@@ -51,7 +51,7 @@ jobs:
           git config user.name "GitHub Action"
           git add -f *
           echo "$(git diff --cached)"
-          git commit -m "Update $(date +%F) $(date +%R)" -m "--- Début des changements ---" -m "$(git diff --cached)" -m "--- Fin des changements ---"
+          git commit -m "Update $(date +%F) $(date +%R)" -m "$(git diff --cached)"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
