@@ -9,10 +9,11 @@ set -o pipefail     # Use last non-zero exit code in a pipeline
 # Setup folder
 outputDirectory="data"
 mkdir -p $outputDirectory
+HORARIUS_KEY=aa2ad129-a990-40d2-9d91-5012ee6990dd
 
 #Download icalendar file
 url="https://www.gegi.usherbrooke.ca/horarius/icalendar?key=$HORARIUS_KEY"
-curl $url -o $outputDirectory/cal.ics
+curl $url -o $outputDirectory/cal.ics --insecure
 dos2unix $outputDirectory/cal.ics
 
 #Ensure DTSTAMP is stable
