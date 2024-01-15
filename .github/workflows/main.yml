@@ -20,6 +20,9 @@ jobs:
       - shell: bash
         run: |
           sudo apt install dos2unix
+
+      - shell: bash
+        run: |
           ./getUrls.sh
         env:
           HORARIUS_KEY: ${{ secrets.HORARIUS_KEY }}
