@@ -109,10 +109,10 @@
 20240228T153000;20240228T170000;C1-3007;APP 3 - GI : Consultation pré-examen;Architecture des ordinateurs\n\n
 20240301T083000;20240301T094500;C1-3018;APP 3 - GI : Examen sommatif - Pratique;Architecture des ordinateurs\n\n
 20240301T083000;20240301T094500;C1-3125;APP 3 - GI : Examen sommatif - Pratique;Architecture des ordinateurs\n\n
-20240301T083000;20240301T101000;C1-4103;APP 3 - GI : Examen sommatif - Pratique;Architecture des ordinateurs\n\nL'examen se termine à 10h10 pou
+20240301T083000;20240301T101000;C1-3024;APP 3 - GI : Examen sommatif - Pratique;Architecture des ordinateurs\n\nL'examen se termine à 10h10 pou
 20240301T101500;20240301T124500;C1-3018;APP 3 - GI : Examen sommatif - Théorique;Architecture des ordinateurs\n\n
 20240301T101500;20240301T124500;C1-3125;APP 3 - GI : Examen sommatif - Théorique;Architecture des ordinateurs\n\n
-20240301T101500;20240301T133500;C1-4103;APP 3 - GI : Examen sommatif - Théorique;Architecture des ordinateurs\n\nL'examen se termine à 13h35 pou
+20240301T101500;20240301T133500;C1-3024;APP 3 - GI : Examen sommatif - Théorique;Architecture des ordinateurs\n\nL'examen se termine à 13h35 pou
 20240311T083000;20240311T100000;C1-5118;APP 4 - GI : Tutorat 1;Physique des portes logiques\n\nT1
 20240311T100000;20240311T113000;C1-5118;APP 4 - GI : Tutorat 1;Physique des portes logiques\n\nT2
 20240311T113000;20240311T120000;C1-5118;APP 3 - GI : Rencontre intendant;Architecture des ordinateurs\n\nSeuls les intendants seront con
@@ -154,12 +154,12 @@
 20240320T140000;20240320T153000;C1-5118;APP 4 - GI : Tutorat 2;Physique des portes logiques\n\nT4
 20240320T153000;20240320T170000;C1-5118;APP 4 - GI : Tutorat 2;Physique des portes logiques\n\nT5
 20240322T083000;20240322T100000;C1-5001;APP 4 - GI : Consultation pré-examen;Physique des portes logiques\n\n
-20240322T123000;20240322T163000;C1-5103;APP 4 - GI : Examen sommatif;Physique des portes logiques\n\nPour les étudiants bénéficiant 
 20240322T130000;20240322T160000;C1-3035;APP 6 : Procédural 2;Électronique analogique II : Maths des signaux à temps continu\
 20240322T130000;20240322T160000;C1-3041;APP 6 : Procédural 2;Électronique analogique II : Maths des signaux à temps continu\
+20240322T130000;20240322T160000;C1-4023;APP 4 - GI : Examen sommatif;Physique des portes logiques\n\n
 20240322T130000;20240322T160000;C1-4113;APP 6 : Procédural 2;Électronique analogique II : Maths des signaux à temps continu\
 20240322T130000;20240322T160000;C1-4115;APP 6 : Procédural 2;Électronique analogique II : Maths des signaux à temps continu\
-20240322T133000;20240322T163000;C1-5001;APP 4 - GI : Examen sommatif;Physique des portes logiques\n\n
+20240322T130000;20240322T170000;C1-5103;APP 4 - GI : Examen sommatif;Physique des portes logiques\n\nPour les étudiants bénéficiant 
 20240325T083000;20240325T100000;C1-5001;APP 6 : Consultation pour la résolution de la problématique;Électronique analogique II : Maths des signaux à temps continu\
 20240325T113000;20240325T120000;C1-5118;APP 4 - GI : Rencontre intendant;Physique des portes logiques\n\nSeuls les intendants seront con
 20240326T130000;20240326T160000;C1-3014;APP 6 : Validation;Électronique analogique II : Maths des signaux à temps continu\
