@@ -53,8 +53,8 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -f *
-          echo "$(git diff --cached --stat)"
-          git commit -m "Update $(date +%F) $(date +%R)" -m "$(git diff --cached --stat)"
+          echo "$(git diff --cached --stat -U1)"
+          git commit -m "Update $(date +%F) $(date +%R)" -m "$(git diff --cached --stat -U1)"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
