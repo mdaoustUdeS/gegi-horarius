@@ -57,7 +57,7 @@ jobs:
           git commit -m "Update $(date +%F) $(date +%R)" -m "$(git diff --cached --stat -U0 --src-prefix=old/ --dst-prefix=new/)"
 
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.8
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }} #To ensure main instead of master
