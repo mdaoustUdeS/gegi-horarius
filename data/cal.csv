@@ -112,6 +112,7 @@
 20240327T150000;20240327T163000;C1-5120;APP 6 : Tutorat 2;Électronique analogique II : Maths des signaux à temps continu\
 20240329T080000;20240329T200000;;APP 6 : Congé;Électronique analogique II : Maths des signaux à temps continu\
 20240401T080000;20240401T200000;;APP 6 : Congé;Électronique analogique II : Maths des signaux à temps continu\
+20240402T083000;20240402T093000;;GEN272 : Consultation Final GEN272;APP4\n\n
 20240402T083000;20240402T100000;C1-3035;APP 6 : Consultation pré-examen;Électronique analogique II : Maths des signaux à temps continu\
 20240402T083000;20240402T100000;C1-3041;APP 6 : Consultation pré-examen;Électronique analogique II : Maths des signaux à temps continu\
 20240402T083000;20240402T100000;C1-4113;APP 6 : Consultation pré-examen;Électronique analogique II : Maths des signaux à temps continu\
@@ -149,8 +150,18 @@
 20240421T080000;20240421T190000;;Période des examens finaux;Finaux\n\n
 20240421T080000;20240421T200000;;Finaux : Période des examens finaux;FInaux\n\n
 20240422T080000;20240422T190000;;Période des examens finaux;Finaux\n\n
+20240422T083000;20240422T093000;;GEN211 : Consultation Final GEN211;APP2 + APP6\n\n
+20240422T130000;20240422T150000;C1-5001;GEN211 : Examen final - GEN211;APP2 + APP6\n\n
+20240422T130000;20240422T150000;C1-5006;GEN211 : Examen final - GEN211;APP2 + APP6\n\n
+20240422T130000;20240422T150000;C1-5013;GEN211 : Examen final - GEN211;APP2 + APP6\n\n
+20240422T130000;20240422T154000;;GEN211 : Examen final - GEN211;APP2 + APP6\n\nPour les étudiants bénéficiant de mesures d'inté
 20240423T080000;20240423T190000;;Période des examens finaux;Finaux\n\n
 20240424T080000;20240424T190000;;Période des examens finaux;Finaux\n\n
+20240424T083000;20240424T093000;;GEN272 : Consultation Final GEN272;APP4\n\n
+20240424T130000;20240424T150000;C1-5001;GEN272 : Examen final - GEN272;APP4\n\n
+20240424T130000;20240424T150000;C1-5006;GEN272 : Examen final - GEN272;APP4\n\n
+20240424T130000;20240424T150000;C1-5013;GEN272 : Examen final - GEN272;APP4\n\n
+20240424T130000;20240424T154000;;GEN272 : Examen final - GEN272;APP4\n\nPour les étudiants bénéficiant de mesures d'intégration
 20240425T080000;20240425T190000;;Période des examens finaux;Finaux\n\n
 20240425T080000;20240425T200000;;Finaux : Période des examens finaux;FInaux\n\n
 20240426T080000;20240426T190000;;Période des examens finaux;Finaux\n\n
