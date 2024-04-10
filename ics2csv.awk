@@ -1,6 +1,6 @@
 BEGIN{
     FS=":"
-    OFS=";"
+    OFS=","
     print "DTSTART", "DTEND", "LOCATION", "SUMMARY", "DESCRIPTION"
 }
 
