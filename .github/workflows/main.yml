@@ -45,7 +45,7 @@ jobs:
       - name: Upload artifact to page
         uses: actions/upload-pages-artifact@v3
         with:
-          path: data/cal.ics
+          path: data
 
   save-changes-and-commit:
     needs: download
