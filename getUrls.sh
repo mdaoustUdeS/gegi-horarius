@@ -23,6 +23,6 @@ awk -f ics2csv.awk $outputDirectory/cal.ics > $outputDirectory/cal.csv
 sort --general-numeric-sort --output $outputDirectory/cal.csv{,} # Sort but ensure header row stay on top. Use Brace expansion to avoid repeating file name.
 
 #Generate no-colors ics file
-sed "s/COLOR.*//" $outputDirectory/cal.ics > $outputDirectory/cal-nocolor.ics
+sed "/^COLOR/d" $outputDirectory/cal.ics > $outputDirectory/cal-nocolor.ics
 
 echo "$0 done!"
