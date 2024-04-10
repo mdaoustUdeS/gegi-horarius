@@ -42,7 +42,7 @@ jobs:
 
       - shell: bash
         run: |
-          tree -H './data' -L 1 --noreport --charset utf-8 -o ./data/index.html
+          cd data && tree -H '.' -L 1 --noreport --charset utf-8 -o index.html
 
       - name: Upload data-csv to artifact
         uses: actions/upload-artifact@v4
