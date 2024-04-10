@@ -19,7 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  Download data from horarius:
+  Download-data-from-horarius:
     runs-on: ubuntu-latest
 
     steps:
