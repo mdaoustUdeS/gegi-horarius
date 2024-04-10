@@ -20,7 +20,7 @@ sed -i "s/DTSTAMP.*/DTSTAMP:20220825T000000Z/" $outputDirectory/cal.ics
 
 #Generate csv from ics
 awk -f ics2csv.awk $outputDirectory/cal.ics > $outputDirectory/cal.csv
-sort -o $outputDirectory/cal.csv{,}
+sort --general-numeric-sort --output $outputDirectory/cal.csv{,} # Sort but ensure header row stay on top. Use Brace expansion to avoid repeating file name.
 
 #Remove icalendar file
 rm $outputDirectory/cal.ics
