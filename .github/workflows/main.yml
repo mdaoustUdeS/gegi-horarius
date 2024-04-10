@@ -19,7 +19,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  Download-data-from-horarius:
+  download:
+    name: Download data from horarius
     runs-on: ubuntu-latest
 
     steps:
@@ -79,7 +80,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: Download-data-from-horarius
+    needs: download
 
     steps:
       - name: Deploy to GitHub Pages
