@@ -25,4 +25,8 @@ sort --general-numeric-sort --output $outputDirectory/cal.csv{,} # Sort but ensu
 #Generate no-colors ics file
 sed "/^COLOR/d" $outputDirectory/cal.ics > $outputDirectory/cal-nocolor.ics
 
+#Generate busy ics file
+sed -r "/(COLOR|LOCATION|SUMMARY)/d" $outputDirectory/cal.ics > $outputDirectory/cal-busy.ics
+sed -i "s/^DESCRIPTION.*/DESCRIPTION:/" $outputDirectory/cal-busy.ics
+
 echo "$0 done!"
