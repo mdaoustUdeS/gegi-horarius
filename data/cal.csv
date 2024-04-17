@@ -40,7 +40,7 @@ DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
 20240426T080000,20240426T200000,,Finaux : Période des examens finaux,FInaux\n\n
 20240429T090000,20240429T103000,C1-5121,APP 1 : Tutorat 1,systeme d’exploitation\n\nT1
 20240429T110000,20240429T123000,C1-5121,APP 1 : Tutorat 1,systeme d’exploitation\n\nT2
-20240429T133000,20240429T150000,C1-5121,APP 1 : Tutorat 1,systeme d’exploitation\n\nT3
+20240429T133000,20240429T150000,,APP 1 : Tutorat 1,systeme d’exploitation\n\nT3
 20240430T120000,20240430T130000,C1-3041,APP 1 : Présentation de la session S6info,systeme d’exploitation\n\n
 20240430T130000,20240430T160000,C1-3041,APP 1 : Procédural 1,systeme d’exploitation\n\n
 20240501T090000,20240501T120000,C1-3014,APP 1 : Laboratoire 1,systeme d’exploitation\n\n
@@ -51,10 +51,10 @@ DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
 20240502T130000,20240502T160000,C1-5006,PMC660 : Présentation courtes des propositions de projet (groupe B),Projet majeur de conception\n\n
 20240503T130000,20240503T160000,C1-3041,APP 1 : Procédural 2,systeme d’exploitation\n\n
 20240506T090000,20240506T103000,C1-3041,APP 1 : Consultation pour la résolution de la problématique,systeme d’exploitation\n\n
-20240507T130000,20240507T160000,C1-3125,APP 1 : Validation de la solution,systeme d’exploitation\n\n
-20240508T090000,20240508T103000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT1
-20240508T110000,20240508T123000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT2
-20240508T133000,20240508T150000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT3
+20240507T090000,20240507T120000,C1-3125,APP 1 : Validation de la solution,systeme d’exploitation\n\n
+20240507T130000,20240507T143000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT1
+20240507T143000,20240507T160000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT2
+20240507T160000,20240507T173000,,APP 1 : Tutorat 2,systeme d’exploitation\n\nT3
 20240509T083000,20240509T170000,,PMC660 : Travail sur le projet,Projet majeur de conception\n\n
 20240510T090000,20240510T103000,C1-4103,APP 1 : Consultation pré-examen,systeme d’exploitation\n\n
 20240510T130000,20240510T150000,C1-5006,APP 1 : Examen sommatif ,systeme d’exploitation\n\n
