@@ -15,5 +15,8 @@ $1=="SUMMARY"{SUMMARY=substr($0,index($0,$2))}
 $1=="DESCRIPTION"{DESCRIPTION=substr($0,index($0,$2))}
 
 /^END:VEVENT/{
-    print DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
+    print DTSTART,DTEND,
+    "\""LOCATION"\"",
+    "\""SUMMARY"\"",
+    "\""DESCRIPTION"\""
 }
