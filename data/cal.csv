@@ -1,193 +1,193 @@
 DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
-20240319T090000,20240319T120000,C1-3014,APP 4 - GI : Validation,Physique des portes logiques\n\n
-20240319T153000,20240319T173000,C1-5001,APP 6 : Séminaire de Mathématiques - PRÉSENCE OBLIGATOIRE,Électronique analogique II : Maths des signaux à temps continu\
-20240320T090000,20240320T120000,C1-4113,APP 6 : Procédural 1,Électronique analogique II : Maths des signaux à temps continu\
-20240320T123000,20240320T140000,C1-5118,APP 4 - GI : Tutorat 2,Physique des portes logiques\n\nT3
-20240320T133000,20240320T163000,C1-3018,APP 6 : Laboratoire,Électronique analogique II : Maths des signaux à temps continu\
-20240322T083000,20240322T100000,C1-5001,APP 4 - GI : Consultation pré-examen,Physique des portes logiques\n\n
-20240322T130000,20240322T160000,C1-3041,APP 6 : Procédural 2,Électronique analogique II : Maths des signaux à temps continu\
-20240322T130000,20240322T160000,C1-4023,APP 4 - GI : Examen sommatif,Physique des portes logiques\n\n
-20240325T083000,20240325T100000,C1-5001,APP 6 : Consultation pour la résolution de la problématique,Électronique analogique II : Maths des signaux à temps continu\
-20240325T113000,20240325T120000,C1-5118,APP 4 - GI : Rencontre intendant,Physique des portes logiques\n\nSeuls les intendants seront con
-20240326T090000,20240326T163000,C1-5125,APP 6 : Validation de la problématique,Électronique analogique II : Maths des signaux à temps continu\
-20240326T090000,20240326T163000,C1-5126,APP 6 : Validation de la problématique,Électronique analogique II : Maths des signaux à temps continu\
-20240326T090000,20240326T163000,C1-5127,APP 6 : Validation de la problématique,Électronique analogique II : Maths des signaux à temps continu\
-20240326T090000,20240326T163000,C1-5128,APP 6 : Validation de la problématique,Électronique analogique II : Maths des signaux à temps continu\
-20240327T150000,20240327T163000,C1-5119,APP 6 : Tutorat 2,Électronique analogique II : Maths des signaux à temps continu\
-20240329T080000,20240329T200000,,APP 6 : Congé,Électronique analogique II : Maths des signaux à temps continu\
-20240401T080000,20240401T200000,,APP 6 : Congé,Électronique analogique II : Maths des signaux à temps continu\
-20240402T083000,20240402T100000,C1-3035,APP 6 : Consultation pré-examen,Électronique analogique II : Maths des signaux à temps continu\
-20240402T083000,20240402T100000,C1-3041,APP 6 : Consultation pré-examen,Électronique analogique II : Maths des signaux à temps continu\
-20240402T083000,20240402T100000,C1-4113,APP 6 : Consultation pré-examen,Électronique analogique II : Maths des signaux à temps continu\
-20240402T083000,20240402T100000,C1-4115,APP 6 : Consultation pré-examen,Électronique analogique II : Maths des signaux à temps continu\
-20240402T133000,20240402T150000,C1-3024,APP 6 : Examen sommatif - Pratique,Électronique analogique II : Maths des signaux à temps continu\
-20240402T153000,20240402T173000,C1-4008,APP 6 : Examen sommatif - Théorique,Électronique analogique II : Maths des signaux à temps continu\
-20240403T120000,20240403T123000,C1-5118,APP 6 : Rencontre intendant,Électronique analogique II : Maths des signaux à temps continu\
-20240418T083000,20240418T093000,C1-4103,GIF470 - GI : Consultation final GIF470,GIF470\n\n
-20240418T094500,20240418T110000,C1-3035,APP 6 : Consultation Sommatifs APP6,Électronique analogique II : Maths des signaux à temps continu\
-20240418T130000,20240418T160000,C1-5006,GIF470 - GI : Examen final - GIF470,GIF470\n\n
-20240420T080000,20240420T190000,,Période des examens finaux,Finaux\n\n
-20240420T080000,20240420T200000,,Finaux : Période des examens finaux,FInaux\n\n
-20240421T080000,20240421T190000,,Période des examens finaux,Finaux\n\n
-20240421T080000,20240421T200000,,Finaux : Période des examens finaux,FInaux\n\n
-20240422T083000,20240422T093000,C1-4008,GEN211 : Consultation Final GEN211,APP2 + APP6\n\n
-20240422T083000,20240422T093000,C1-4023,GEN211 : Consultation Final GEN211,APP2 + APP6\n\n
-20240422T130000,20240422T150000,C1-5001,GEN211 : Examen final - GEN211,APP2 + APP6\n\n
-20240425T080000,20240425T200000,,Finaux : Période des examens finaux,FInaux\n\n
-20240426T080000,20240426T190000,,Période des examens finaux,Finaux\n\n
-20240426T080000,20240426T200000,,Finaux : Période des examens finaux,FInaux\n\n
-20240429T090000,20240429T103000,C1-5121,APP 1 : Tutorat 1,systeme d’exploitation\n\nT1
-20240429T110000,20240429T123000,C1-5121,APP 1 : Tutorat 1,systeme d’exploitation\n\nT2
-20240429T133000,20240429T150000,,APP 1 : Tutorat 1,systeme d’exploitation\n\nT3
-20240430T120000,20240430T130000,C1-3041,APP 1 : Présentation de la session S6info,systeme d’exploitation\n\n
-20240430T130000,20240430T160000,C1-3041,APP 1 : Procédural 1,systeme d’exploitation\n\n
-20240501T090000,20240501T120000,C1-3014,APP 1 : Laboratoire 1,systeme d’exploitation\n\n
-20240502T083000,20240502T093000,,PMC660 : Présentation de PMC au D2-1060 (obligatoire),Projet majeur de conception\n\n
-20240502T093000,20240502T120000,C1-5001,PMC660 : Présentation courtes des propositions de projet (groupe A),Projet majeur de conception\n\n
-20240502T093000,20240502T120000,C1-5006,PMC660 : Présentation courtes des propositions de projet (groupe B),Projet majeur de conception\n\n
-20240502T130000,20240502T160000,C1-5001,PMC660 : Présentation courtes des propositions de projet (groupe A),Projet majeur de conception\n\n
-20240502T130000,20240502T160000,C1-5006,PMC660 : Présentation courtes des propositions de projet (groupe B),Projet majeur de conception\n\n
-20240503T130000,20240503T160000,C1-3041,APP 1 : Procédural 2,systeme d’exploitation\n\n
-20240506T090000,20240506T103000,C1-3041,APP 1 : Consultation pour la résolution de la problématique,systeme d’exploitation\n\n
-20240507T090000,20240507T120000,C1-3125,APP 1 : Validation de la solution,systeme d’exploitation\n\n
-20240507T130000,20240507T143000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT1
-20240507T143000,20240507T160000,C1-5120,APP 1 : Tutorat 2,systeme d’exploitation\n\nT2
-20240507T160000,20240507T173000,,APP 1 : Tutorat 2,systeme d’exploitation\n\nT3
-20240509T083000,20240509T170000,,PMC660 : Travail sur le projet,Projet majeur de conception\n\n
-20240510T090000,20240510T103000,C1-4103,APP 1 : Consultation pré-examen,systeme d’exploitation\n\n
-20240510T130000,20240510T150000,C1-5006,APP 1 : Examen sommatif ,systeme d’exploitation\n\n
-20240510T130000,20240510T154000,C1-3041,APP 1 : Examen sommatif ,systeme d’exploitation\n\npour les étudiants bénéficiant de mes
-20240513T090000,20240513T103000,C1-5121,APP 2 : Tutorat 1,nœuds capteurs reseaute\n\nT1
-20240513T110000,20240513T123000,C1-5121,APP 2 : Tutorat 1,nœuds capteurs reseaute\n\nT2
-20240513T133000,20240513T150000,C1-5121,APP 2 : Tutorat 1,nœuds capteurs reseaute\n\nT3
-20240514T130000,20240514T160000,C1-4103,APP 2 : Procédural 1,nœuds capteurs reseaute\n\n
-20240515T130000,20240515T160000,C1-3014,APP 2 : Laboratoire 2,nœuds capteurs reseaute\n\n
-20240516T083000,20240516T120000,C1-2048-1,PMC660 : Coaching #1,Projet majeur de conception\n\n
-20240516T083000,20240516T120000,C1-3010,PMC660 : Coaching #1,Projet majeur de conception\n\n
-20240516T083000,20240516T120000,C1-5013,PMC660 : Coaching #1,Projet majeur de conception\n\n
-20240516T083000,20240516T120000,C1-5103,PMC660 : Coaching #1,Projet majeur de conception\n\n
-20240517T080000,20240517T200000,,APP 2 : Congé,nœuds capteurs reseaute\n\n
-20240520T080000,20240520T200000,,APP 2 : Congé,nœuds capteurs reseaute\n\n
-20240521T090000,20240521T120000,,APP 2 : Procédural 2,nœuds capteurs reseaute\n\nAu A1-108 (faculté d'éducation)
-20240521T140000,20240521T153000,C1-3041,APP 2 : Consultation pour la résolution de la problématique,nœuds capteurs reseaute\n\n
-20240522T130000,20240522T160000,C1-3014,APP 2 : Validation de la solution,nœuds capteurs reseaute\n\n
-20240523T083000,20240523T120000,C1-2048-1,PMC660 : Coaching #2,Projet majeur de conception\n\n
-20240523T083000,20240523T120000,C1-3010,PMC660 : Coaching #2,Projet majeur de conception\n\n
-20240523T083000,20240523T120000,C1-5013,PMC660 : Coaching #2,Projet majeur de conception\n\n
-20240523T083000,20240523T120000,C1-5103,PMC660 : Coaching #2,Projet majeur de conception\n\n
-20240523T133000,20240523T143000,C1-5001,PMC660 : Atelier sur PI et ententes contractuelles,Projet majeur de conception\n\n
-20240523T143000,20240523T163000,C1-5001,PMC660 : Coaching PI (certaines équipes),Projet majeur de conception\n\n
-20240524T090000,20240524T103000,C1-5119,APP 2 : Tutorat 2,nœuds capteurs reseaute\n\nT1
-20240524T110000,20240524T123000,C1-5119,APP 2 : Tutorat 2,nœuds capteurs reseaute\n\nT2
-20240524T133000,20240524T150000,C1-5119,APP 2 : Tutorat 2,nœuds capteurs reseaute\n\nT3
-20240527T090000,20240527T103000,C1-3041,APP 2 : Consultation pré-examen,nœuds capteurs reseaute\n\n
-20240527T130000,20240527T160000,C1-5006,APP 2 : Examen sommatif théorique,nœuds capteurs reseaute\n\n
-20240527T130000,20240527T170000,C1-3035,APP 2 : Examen sommatif théorique,nœuds capteurs reseaute\n\nPour les étudiants bénéficiant de me
-20240529T090000,20240529T103000,C1-5118,APP 3 : Tutorat 1,antennes et rayonnement\n\nT1
-20240529T110000,20240529T123000,C1-5118,APP 3 : Tutorat 1,antennes et rayonnement\n\nT2
-20240529T133000,20240529T150000,C1-5118,APP 3 : Tutorat 1,antennes et rayonnement\n\nT3
-20240530T083000,20240530T120000,C1-2048-1,PMC660 : Coaching #3,Projet majeur de conception\n\n
-20240530T083000,20240530T120000,C1-3010,PMC660 : Coaching #3,Projet majeur de conception\n\n
-20240530T083000,20240530T120000,C1-5013,PMC660 : Coaching #3,Projet majeur de conception\n\n
-20240530T083000,20240530T120000,C1-5103,PMC660 : Coaching #3,Projet majeur de conception\n\n
-20240530T133000,20240530T144500,,PMC660 : Atelier sécurité (Teams),Projet majeur de conception\n\n
-20240531T090000,20240531T120000,,APP 3 : Procédural 1,antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)
-20240603T090000,20240603T120000,C1-3024,APP 3 : Laboratoire 1,antennes et rayonnement\n\n
-20240604T083000,20240604T113000,,APP 3 : Procédural 2,antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)
-20240605T130000,20240605T143000,C1-4113,APP 3 : Consultation pour la résolution de la problématique,antennes et rayonnement\n\n
-20240606T083000,20240606T120000,C1-2048-1,PMC660 : Coaching #4,Projet majeur de conception\n\n
-20240606T083000,20240606T120000,C1-3010,PMC660 : Coaching #4,Projet majeur de conception\n\n
-20240606T083000,20240606T120000,C1-5013,PMC660 : Coaching #4,Projet majeur de conception\n\n
-20240606T083000,20240606T120000,C1-5103,PMC660 : Coaching #4,Projet majeur de conception\n\n
-20240607T130000,20240607T160000,C1-3024,APP 3 : Validation de la solution,antennes et rayonnement\n\n
-20240610T090000,20240610T103000,C1-5120,APP 3 : Tutorat 2,antennes et rayonnement\n\nT1
-20240610T110000,20240610T123000,C1-5120,APP 3 : Tutorat 2,antennes et rayonnement\n\nT2
-20240610T133000,20240610T150000,C1-5120,APP 3 : Tutorat 2,antennes et rayonnement\n\nT3
-20240611T090000,20240611T103000,C1-3035,APP 3 : Consultation pré-examen,antennes et rayonnement\n\n
-20240611T130000,20240611T160000,C1-3007,APP 3 : Examen sommatif ,antennes et rayonnement\n\n
-20240611T130000,20240611T170000,C1-3041,APP 3 : Examen sommatif ,antennes et rayonnement\n\nPour les étudiants bénéficiant de me
-20240612T090000,20240612T103000,C1-5119,APP 4 : Tutorat 1,application temps reel\n\nT1
-20240612T110000,20240612T123000,C1-5119,APP 4 : Tutorat 1,application temps reel\n\nT2
-20240612T133000,20240612T150000,C1-5119,APP 4 : Tutorat 1,application temps reel\n\nT3
-20240613T083000,20240613T170000,,PMC660 : Travail sur le projet,Projet majeur de conception\n\n
-20240614T133000,20240614T163000,C1-4113,APP 4 : Procédural 1,application temps reel\n\n
-20240617T130000,20240617T160000,C1-3125,APP 4 : Laboratoire 1,application temps reel\n\n
-20240618T130000,20240618T160000,C1-3035,APP 4 : Procédural 2,application temps reel\n\n
-20240619T130000,20240619T143000,C1-3035,APP 4 : Consultation pour la résolution de la problématique,application temps reel\n\n
-20240620T083000,20240620T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #1,Projet majeur de conception\n\n
-20240620T083000,20240620T120000,C1-3010,PMC660 : Rencontre suivi-technique #1,Projet majeur de conception\n\n
-20240620T083000,20240620T120000,C1-5013,PMC660 : Rencontre suivi-technique #1,Projet majeur de conception\n\n
-20240620T083000,20240620T120000,C1-5103,PMC660 : Rencontre suivi-technique #1,Projet majeur de conception\n\n
-20240621T130000,20240621T160000,C1-3125,APP 4 : Validation de la solution,application temps reel\n\n
-20240624T080000,20240624T200000,,APP 4 : Congé,application temps reel\n\n
-20240625T090000,20240625T103000,C1-5120,APP 4 : Tutorat 2,application temps reel\n\nT1
-20240625T110000,20240625T123000,C1-5120,APP 4 : Tutorat 2,application temps reel\n\nT2
-20240625T133000,20240625T150000,C1-5120,APP 4 : Tutorat 2,application temps reel\n\nT3
-20240626T090000,20240626T103000,C1-3041,APP 4 : Consultation pré-examen,application temps reel\n\n
-20240626T130000,20240626T160000,C1-4023,APP 4 : Examen sommatif ,application temps reel\n\n
-20240626T130000,20240626T170000,C1-4103,APP 4 : Examen sommatif ,application temps reel\n\nPour les étudiants bénéficiant de mes
-20240627T083000,20240627T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #2,Projet majeur de conception\n\n
-20240627T083000,20240627T120000,C1-3010,PMC660 : Rencontre suivi-technique #2,Projet majeur de conception\n\n
-20240627T083000,20240627T120000,C1-5013,PMC660 : Rencontre suivi-technique #2,Projet majeur de conception\n\n
-20240627T083000,20240627T120000,C1-5103,PMC660 : Rencontre suivi-technique #2,Projet majeur de conception\n\n
-20240628T090000,20240628T103000,C1-5118,APP 5 : Tutorat 1,Objets connectes\n\nT1
-20240628T110000,20240628T123000,C1-5118,APP 5 : Tutorat 1,Objets connectes\n\nT2
-20240628T133000,20240628T150000,C1-5118,APP 5 : Tutorat 1,Objets connectes\n\nT3
-20240701T080000,20240701T200000,,APP 5 : Congé,Objets connectes\n\n
-20240702T130000,20240702T160000,C1-3041,APP 5 : Procédural 1,Objets connectes\n\n
-20240703T130000,20240703T160000,C1-5009,APP 5 : Laboratoire 1,Objets connectes\n\n
-20240704T083000,20240704T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #3,Projet majeur de conception\n\n
-20240704T083000,20240704T120000,C1-3010,PMC660 : Rencontre suivi-technique #3,Projet majeur de conception\n\n
-20240704T083000,20240704T120000,C1-5013,PMC660 : Rencontre suivi-technique #3,Projet majeur de conception\n\n
-20240704T083000,20240704T120000,C1-5103,PMC660 : Rencontre suivi-technique #3,Projet majeur de conception\n\n
-20240705T130000,20240705T160000,C1-3035,APP 5 : Procédural 2,Objets connectes\n\n
-20240708T090000,20240708T103000,C1-3041,APP 5 : Consultation pour la résolution de la problématique,Objets connectes\n\n
-20240709T130000,20240709T160000,C1-3125,APP 5 : Validation de la solution,Objets connectes\n\n
-20240710T090000,20240710T103000,C1-5118,APP 5 : Tutorat 2,Objets connectes\n\nT1
-20240710T110000,20240710T123000,C1-5118,APP 5 : Tutorat 2,Objets connectes\n\nT2
-20240710T133000,20240710T150000,C1-5118,APP 5 : Tutorat 2,Objets connectes\n\nT3
-20240711T083000,20240711T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #4,Projet majeur de conception\n\n
-20240711T083000,20240711T120000,C1-3010,PMC660 : Rencontre suivi-technique #4,Projet majeur de conception\n\n
-20240711T083000,20240711T120000,C1-5013,PMC660 : Rencontre suivi-technique #4,Projet majeur de conception\n\n
-20240711T083000,20240711T120000,C1-5103,PMC660 : Rencontre suivi-technique #4,Projet majeur de conception\n\n
-20240712T090000,20240712T103000,C1-3035,APP 5 : Consultation pré-examen,Objets connectes\n\n
-20240712T130000,20240712T160000,C1-3007,APP 5 : Examen sommatif,Objets connectes\n\n
-20240712T130000,20240712T170000,C1-3035,APP 5 : Examen sommatif,Objets connectes\n\nPour les étudiants bénéficiant de mesures d
-20240715T090000,20240715T103000,C1-5118,APP 6 : Tutorat 1,propriete des materiaux et alimentation electrique\n\nT1
-20240715T110000,20240715T123000,C1-5118,APP 6 : Tutorat 1,propriete des materiaux et alimentation electrique\n\nT2
-20240715T133000,20240715T150000,C1-5118,APP 6 : Tutorat 1,propriete des materiaux et alimentation electrique\n\nT3
-20240717T090000,20240717T120000,C1-3035,APP 6 : Procédural 1,propriete des materiaux et alimentation electrique\n\n
-20240718T083000,20240718T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #5,Projet majeur de conception\n\n
-20240718T083000,20240718T120000,C1-3010,PMC660 : Rencontre suivi-technique #5,Projet majeur de conception\n\n
-20240718T083000,20240718T120000,C1-5013,PMC660 : Rencontre suivi-technique #5,Projet majeur de conception\n\n
-20240718T083000,20240718T120000,C1-5103,PMC660 : Rencontre suivi-technique #5,Projet majeur de conception\n\n
-20240719T090000,20240719T120000,C1-3024,APP 6 : Laboratoire Batterie,propriete des materiaux et alimentation electrique\n\n
-20240722T090000,20240722T120000,C1-3035,APP 6 : Procédural 2,propriete des materiaux et alimentation electrique\n\n
-20240723T090000,20240723T120000,C1-3024,APP 6 : Laboratoire - Matériaux,propriete des materiaux et alimentation electrique\n\n
-20240724T090000,20240724T120000,C1-4103,APP 6 : Procédural 3,propriete des materiaux et alimentation electrique\n\n
-20240725T083000,20240725T120000,C1-2048-1,PMC660 : Rencontre suivi-technique #6,Projet majeur de conception\n\n
-20240725T083000,20240725T120000,C1-3010,PMC660 : Rencontre suivi-technique #6,Projet majeur de conception\n\n
-20240725T083000,20240725T120000,C1-5013,PMC660 : Rencontre suivi-technique #6,Projet majeur de conception\n\n
-20240725T083000,20240725T120000,C1-5103,PMC660 : Rencontre suivi-technique #6,Projet majeur de conception\n\n
-20240726T103000,20240726T120000,C1-3035,APP 6 : Consultation pour la résolution de la problématique,propriete des materiaux et alimentation electrique\n\n
-20240729T083000,20240729T170000,,PMC660 : Audits d'équipe,Projet majeur de conception\n\n
-20240729T090000,20240729T103000,C1-5119,APP 6 : Tutorat 2,propriete des materiaux et alimentation electrique\n\nT1
-20240729T110000,20240729T123000,C1-5119,APP 6 : Tutorat 2,propriete des materiaux et alimentation electrique\n\nT2
-20240729T133000,20240729T150000,C1-5119,APP 6 : Tutorat 2,propriete des materiaux et alimentation electrique\n\nT3
-20240730T083000,20240730T170000,,PMC660 : Audits d'équipe,Projet majeur de conception\n\n
-20240731T083000,20240731T170000,,PMC660 : Audits d'équipe,Projet majeur de conception\n\n
-20240731T090000,20240731T103000,C1-3035,APP 6 : Consultation pré-examen,propriete des materiaux et alimentation electrique\n\n
-20240731T130000,20240731T160000,C1-5103,APP 6 : Examen sommatif,propriete des materiaux et alimentation electrique\n\n
-20240731T130000,20240731T170000,C1-5014,APP 6 : Examen sommatif,propriete des materiaux et alimentation electrique\n\nPour les 
-20240801T083000,20240801T170000,,PMC660 : Audits d'équipe,Projet majeur de conception\n\n
-20240802T083000,20240802T170000,,PMC660 : Audits d'équipe,Projet majeur de conception\n\n
-20240805T080000,20240805T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240806T080000,20240806T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240807T080000,20240807T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240808T080000,20240808T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240809T080000,20240809T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240810T080000,20240810T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240811T080000,20240811T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240812T080000,20240812T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240813T080000,20240813T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
-20240814T080000,20240814T200000,,Reprise : Période d'examens finaux,Reprise éventuelle des finaux\n\n
+20240319T090000,20240319T120000,"C1-3014","APP 4 - GI : Validation","Physique des portes logiques\n\n"
+20240319T153000,20240319T173000,"C1-5001","APP 6 : Séminaire de Mathématiques - PRÉSENCE OBLIGATOIRE","Électronique analogique II : Maths des signaux à temps continu\"
+20240320T090000,20240320T120000,"C1-4113","APP 6 : Procédural 1","Électronique analogique II : Maths des signaux à temps continu\"
+20240320T123000,20240320T140000,"C1-5118","APP 4 - GI : Tutorat 2","Physique des portes logiques\n\nT3"
+20240320T133000,20240320T163000,"C1-3018","APP 6 : Laboratoire","Électronique analogique II : Maths des signaux à temps continu\"
+20240322T083000,20240322T100000,"C1-5001","APP 4 - GI : Consultation pré-examen","Physique des portes logiques\n\n"
+20240322T130000,20240322T160000,"C1-3041","APP 6 : Procédural 2","Électronique analogique II : Maths des signaux à temps continu\"
+20240322T130000,20240322T160000,"C1-4023","APP 4 - GI : Examen sommatif","Physique des portes logiques\n\n"
+20240325T083000,20240325T100000,"C1-5001","APP 6 : Consultation pour la résolution de la problématique","Électronique analogique II : Maths des signaux à temps continu\"
+20240325T113000,20240325T120000,"C1-5118","APP 4 - GI : Rencontre intendant","Physique des portes logiques\n\nSeuls les intendants seront con"
+20240326T090000,20240326T163000,"C1-5125","APP 6 : Validation de la problématique","Électronique analogique II : Maths des signaux à temps continu\"
+20240326T090000,20240326T163000,"C1-5126","APP 6 : Validation de la problématique","Électronique analogique II : Maths des signaux à temps continu\"
+20240326T090000,20240326T163000,"C1-5127","APP 6 : Validation de la problématique","Électronique analogique II : Maths des signaux à temps continu\"
+20240326T090000,20240326T163000,"C1-5128","APP 6 : Validation de la problématique","Électronique analogique II : Maths des signaux à temps continu\"
+20240327T150000,20240327T163000,"C1-5119","APP 6 : Tutorat 2","Électronique analogique II : Maths des signaux à temps continu\"
+20240329T080000,20240329T200000,"","APP 6 : Congé","Électronique analogique II : Maths des signaux à temps continu\"
+20240401T080000,20240401T200000,"","APP 6 : Congé","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T083000,20240402T100000,"C1-3035","APP 6 : Consultation pré-examen","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T083000,20240402T100000,"C1-3041","APP 6 : Consultation pré-examen","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T083000,20240402T100000,"C1-4113","APP 6 : Consultation pré-examen","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T083000,20240402T100000,"C1-4115","APP 6 : Consultation pré-examen","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T133000,20240402T150000,"C1-3024","APP 6 : Examen sommatif - Pratique","Électronique analogique II : Maths des signaux à temps continu\"
+20240402T153000,20240402T173000,"C1-4008","APP 6 : Examen sommatif - Théorique","Électronique analogique II : Maths des signaux à temps continu\"
+20240403T120000,20240403T123000,"C1-5118","APP 6 : Rencontre intendant","Électronique analogique II : Maths des signaux à temps continu\"
+20240418T083000,20240418T093000,"C1-4103","GIF470 - GI : Consultation final GIF470","GIF470\n\n"
+20240418T094500,20240418T110000,"C1-3035","APP 6 : Consultation Sommatifs APP6","Électronique analogique II : Maths des signaux à temps continu\"
+20240418T130000,20240418T160000,"C1-5006","GIF470 - GI : Examen final - GIF470","GIF470\n\n"
+20240420T080000,20240420T190000,"","Période des examens finaux","Finaux\n\n"
+20240420T080000,20240420T200000,"","Finaux : Période des examens finaux","FInaux\n\n"
+20240421T080000,20240421T190000,"","Période des examens finaux","Finaux\n\n"
+20240421T080000,20240421T200000,"","Finaux : Période des examens finaux","FInaux\n\n"
+20240422T083000,20240422T093000,"C1-4008","GEN211 : Consultation Final GEN211","APP2 + APP6\n\n"
+20240422T083000,20240422T093000,"C1-4023","GEN211 : Consultation Final GEN211","APP2 + APP6\n\n"
+20240422T130000,20240422T150000,"C1-5001","GEN211 : Examen final - GEN211","APP2 + APP6\n\n"
+20240425T080000,20240425T200000,"","Finaux : Période des examens finaux","FInaux\n\n"
+20240426T080000,20240426T190000,"","Période des examens finaux","Finaux\n\n"
+20240426T080000,20240426T200000,"","Finaux : Période des examens finaux","FInaux\n\n"
+20240429T090000,20240429T103000,"C1-5121","APP 1 : Tutorat 1","systeme d’exploitation\n\nT1"
+20240429T110000,20240429T123000,"C1-5121","APP 1 : Tutorat 1","systeme d’exploitation\n\nT2"
+20240429T133000,20240429T150000,"","APP 1 : Tutorat 1","systeme d’exploitation\n\nT3"
+20240430T120000,20240430T130000,"C1-3041","APP 1 : Présentation de la session S6info","systeme d’exploitation\n\n"
+20240430T130000,20240430T160000,"C1-3041","APP 1 : Procédural 1","systeme d’exploitation\n\n"
+20240501T090000,20240501T120000,"C1-3014","APP 1 : Laboratoire 1","systeme d’exploitation\n\n"
+20240502T083000,20240502T093000,"","PMC660 : Présentation de PMC au D2-1060 (obligatoire)","Projet majeur de conception\n\n"
+20240502T093000,20240502T120000,"C1-5001","PMC660 : Présentation courtes des propositions de projet (groupe A)","Projet majeur de conception\n\n"
+20240502T093000,20240502T120000,"C1-5006","PMC660 : Présentation courtes des propositions de projet (groupe B)","Projet majeur de conception\n\n"
+20240502T130000,20240502T160000,"C1-5001","PMC660 : Présentation courtes des propositions de projet (groupe A)","Projet majeur de conception\n\n"
+20240502T130000,20240502T160000,"C1-5006","PMC660 : Présentation courtes des propositions de projet (groupe B)","Projet majeur de conception\n\n"
+20240503T130000,20240503T160000,"C1-3041","APP 1 : Procédural 2","systeme d’exploitation\n\n"
+20240506T090000,20240506T103000,"C1-3041","APP 1 : Consultation pour la résolution de la problématique","systeme d’exploitation\n\n"
+20240507T090000,20240507T120000,"C1-3125","APP 1 : Validation de la solution","systeme d’exploitation\n\n"
+20240507T130000,20240507T143000,"C1-5120","APP 1 : Tutorat 2","systeme d’exploitation\n\nT1"
+20240507T143000,20240507T160000,"C1-5120","APP 1 : Tutorat 2","systeme d’exploitation\n\nT2"
+20240507T160000,20240507T173000,"","APP 1 : Tutorat 2","systeme d’exploitation\n\nT3"
+20240509T083000,20240509T170000,"","PMC660 : Travail sur le projet","Projet majeur de conception\n\n"
+20240510T090000,20240510T103000,"C1-4103","APP 1 : Consultation pré-examen","systeme d’exploitation\n\n"
+20240510T130000,20240510T150000,"C1-5006","APP 1 : Examen sommatif ","systeme d’exploitation\n\n"
+20240510T130000,20240510T154000,"C1-3041","APP 1 : Examen sommatif ","systeme d’exploitation\n\npour les étudiants bénéficiant de mes"
+20240513T090000,20240513T103000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT1"
+20240513T110000,20240513T123000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT2"
+20240513T133000,20240513T150000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT3"
+20240514T130000,20240514T160000,"C1-4103","APP 2 : Procédural 1","nœuds capteurs reseaute\n\n"
+20240515T130000,20240515T160000,"C1-3014","APP 2 : Laboratoire 2","nœuds capteurs reseaute\n\n"
+20240516T083000,20240516T120000,"C1-2048-1","PMC660 : Coaching #1","Projet majeur de conception\n\n"
+20240516T083000,20240516T120000,"C1-3010","PMC660 : Coaching #1","Projet majeur de conception\n\n"
+20240516T083000,20240516T120000,"C1-5013","PMC660 : Coaching #1","Projet majeur de conception\n\n"
+20240516T083000,20240516T120000,"C1-5103","PMC660 : Coaching #1","Projet majeur de conception\n\n"
+20240517T080000,20240517T200000,"","APP 2 : Congé","nœuds capteurs reseaute\n\n"
+20240520T080000,20240520T200000,"","APP 2 : Congé","nœuds capteurs reseaute\n\n"
+20240521T090000,20240521T120000,"","APP 2 : Procédural 2","nœuds capteurs reseaute\n\nAu A1-108 (faculté d'éducation)"
+20240521T140000,20240521T153000,"C1-3041","APP 2 : Consultation pour la résolution de la problématique","nœuds capteurs reseaute\n\n"
+20240522T130000,20240522T160000,"C1-3014","APP 2 : Validation de la solution","nœuds capteurs reseaute\n\n"
+20240523T083000,20240523T120000,"C1-2048-1","PMC660 : Coaching #2","Projet majeur de conception\n\n"
+20240523T083000,20240523T120000,"C1-3010","PMC660 : Coaching #2","Projet majeur de conception\n\n"
+20240523T083000,20240523T120000,"C1-5013","PMC660 : Coaching #2","Projet majeur de conception\n\n"
+20240523T083000,20240523T120000,"C1-5103","PMC660 : Coaching #2","Projet majeur de conception\n\n"
+20240523T133000,20240523T143000,"C1-5001","PMC660 : Atelier sur PI et ententes contractuelles","Projet majeur de conception\n\n"
+20240523T143000,20240523T163000,"C1-5001","PMC660 : Coaching PI (certaines équipes)","Projet majeur de conception\n\n"
+20240524T090000,20240524T103000,"C1-5119","APP 2 : Tutorat 2","nœuds capteurs reseaute\n\nT1"
+20240524T110000,20240524T123000,"C1-5119","APP 2 : Tutorat 2","nœuds capteurs reseaute\n\nT2"
+20240524T133000,20240524T150000,"C1-5119","APP 2 : Tutorat 2","nœuds capteurs reseaute\n\nT3"
+20240527T090000,20240527T103000,"C1-3041","APP 2 : Consultation pré-examen","nœuds capteurs reseaute\n\n"
+20240527T130000,20240527T160000,"C1-5006","APP 2 : Examen sommatif théorique","nœuds capteurs reseaute\n\n"
+20240527T130000,20240527T170000,"C1-3035","APP 2 : Examen sommatif théorique","nœuds capteurs reseaute\n\nPour les étudiants bénéficiant de me"
+20240529T090000,20240529T103000,"C1-5118","APP 3 : Tutorat 1","antennes et rayonnement\n\nT1"
+20240529T110000,20240529T123000,"C1-5118","APP 3 : Tutorat 1","antennes et rayonnement\n\nT2"
+20240529T133000,20240529T150000,"C1-5118","APP 3 : Tutorat 1","antennes et rayonnement\n\nT3"
+20240530T083000,20240530T120000,"C1-2048-1","PMC660 : Coaching #3","Projet majeur de conception\n\n"
+20240530T083000,20240530T120000,"C1-3010","PMC660 : Coaching #3","Projet majeur de conception\n\n"
+20240530T083000,20240530T120000,"C1-5013","PMC660 : Coaching #3","Projet majeur de conception\n\n"
+20240530T083000,20240530T120000,"C1-5103","PMC660 : Coaching #3","Projet majeur de conception\n\n"
+20240530T133000,20240530T144500,"","PMC660 : Atelier sécurité (Teams)","Projet majeur de conception\n\n"
+20240531T090000,20240531T120000,"","APP 3 : Procédural 1","antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)"
+20240603T090000,20240603T120000,"C1-3024","APP 3 : Laboratoire 1","antennes et rayonnement\n\n"
+20240604T083000,20240604T113000,"","APP 3 : Procédural 2","antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)"
+20240605T130000,20240605T143000,"C1-4113","APP 3 : Consultation pour la résolution de la problématique","antennes et rayonnement\n\n"
+20240606T083000,20240606T120000,"C1-2048-1","PMC660 : Coaching #4","Projet majeur de conception\n\n"
+20240606T083000,20240606T120000,"C1-3010","PMC660 : Coaching #4","Projet majeur de conception\n\n"
+20240606T083000,20240606T120000,"C1-5013","PMC660 : Coaching #4","Projet majeur de conception\n\n"
+20240606T083000,20240606T120000,"C1-5103","PMC660 : Coaching #4","Projet majeur de conception\n\n"
+20240607T130000,20240607T160000,"C1-3024","APP 3 : Validation de la solution","antennes et rayonnement\n\n"
+20240610T090000,20240610T103000,"C1-5120","APP 3 : Tutorat 2","antennes et rayonnement\n\nT1"
+20240610T110000,20240610T123000,"C1-5120","APP 3 : Tutorat 2","antennes et rayonnement\n\nT2"
+20240610T133000,20240610T150000,"C1-5120","APP 3 : Tutorat 2","antennes et rayonnement\n\nT3"
+20240611T090000,20240611T103000,"C1-3035","APP 3 : Consultation pré-examen","antennes et rayonnement\n\n"
+20240611T130000,20240611T160000,"C1-3007","APP 3 : Examen sommatif ","antennes et rayonnement\n\n"
+20240611T130000,20240611T170000,"C1-3041","APP 3 : Examen sommatif ","antennes et rayonnement\n\nPour les étudiants bénéficiant de me"
+20240612T090000,20240612T103000,"C1-5119","APP 4 : Tutorat 1","application temps reel\n\nT1"
+20240612T110000,20240612T123000,"C1-5119","APP 4 : Tutorat 1","application temps reel\n\nT2"
+20240612T133000,20240612T150000,"C1-5119","APP 4 : Tutorat 1","application temps reel\n\nT3"
+20240613T083000,20240613T170000,"","PMC660 : Travail sur le projet","Projet majeur de conception\n\n"
+20240614T133000,20240614T163000,"C1-4113","APP 4 : Procédural 1","application temps reel\n\n"
+20240617T130000,20240617T160000,"C1-3125","APP 4 : Laboratoire 1","application temps reel\n\n"
+20240618T130000,20240618T160000,"C1-3035","APP 4 : Procédural 2","application temps reel\n\n"
+20240619T130000,20240619T143000,"C1-3035","APP 4 : Consultation pour la résolution de la problématique","application temps reel\n\n"
+20240620T083000,20240620T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #1","Projet majeur de conception\n\n"
+20240620T083000,20240620T120000,"C1-3010","PMC660 : Rencontre suivi-technique #1","Projet majeur de conception\n\n"
+20240620T083000,20240620T120000,"C1-5013","PMC660 : Rencontre suivi-technique #1","Projet majeur de conception\n\n"
+20240620T083000,20240620T120000,"C1-5103","PMC660 : Rencontre suivi-technique #1","Projet majeur de conception\n\n"
+20240621T130000,20240621T160000,"C1-3125","APP 4 : Validation de la solution","application temps reel\n\n"
+20240624T080000,20240624T200000,"","APP 4 : Congé","application temps reel\n\n"
+20240625T090000,20240625T103000,"C1-5120","APP 4 : Tutorat 2","application temps reel\n\nT1"
+20240625T110000,20240625T123000,"C1-5120","APP 4 : Tutorat 2","application temps reel\n\nT2"
+20240625T133000,20240625T150000,"C1-5120","APP 4 : Tutorat 2","application temps reel\n\nT3"
+20240626T090000,20240626T103000,"C1-3041","APP 4 : Consultation pré-examen","application temps reel\n\n"
+20240626T130000,20240626T160000,"C1-4023","APP 4 : Examen sommatif ","application temps reel\n\n"
+20240626T130000,20240626T170000,"C1-4103","APP 4 : Examen sommatif ","application temps reel\n\nPour les étudiants bénéficiant de mes"
+20240627T083000,20240627T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #2","Projet majeur de conception\n\n"
+20240627T083000,20240627T120000,"C1-3010","PMC660 : Rencontre suivi-technique #2","Projet majeur de conception\n\n"
+20240627T083000,20240627T120000,"C1-5013","PMC660 : Rencontre suivi-technique #2","Projet majeur de conception\n\n"
+20240627T083000,20240627T120000,"C1-5103","PMC660 : Rencontre suivi-technique #2","Projet majeur de conception\n\n"
+20240628T090000,20240628T103000,"C1-5118","APP 5 : Tutorat 1","Objets connectes\n\nT1"
+20240628T110000,20240628T123000,"C1-5118","APP 5 : Tutorat 1","Objets connectes\n\nT2"
+20240628T133000,20240628T150000,"C1-5118","APP 5 : Tutorat 1","Objets connectes\n\nT3"
+20240701T080000,20240701T200000,"","APP 5 : Congé","Objets connectes\n\n"
+20240702T130000,20240702T160000,"C1-3041","APP 5 : Procédural 1","Objets connectes\n\n"
+20240703T130000,20240703T160000,"C1-5009","APP 5 : Laboratoire 1","Objets connectes\n\n"
+20240704T083000,20240704T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #3","Projet majeur de conception\n\n"
+20240704T083000,20240704T120000,"C1-3010","PMC660 : Rencontre suivi-technique #3","Projet majeur de conception\n\n"
+20240704T083000,20240704T120000,"C1-5013","PMC660 : Rencontre suivi-technique #3","Projet majeur de conception\n\n"
+20240704T083000,20240704T120000,"C1-5103","PMC660 : Rencontre suivi-technique #3","Projet majeur de conception\n\n"
+20240705T130000,20240705T160000,"C1-3035","APP 5 : Procédural 2","Objets connectes\n\n"
+20240708T090000,20240708T103000,"C1-3041","APP 5 : Consultation pour la résolution de la problématique","Objets connectes\n\n"
+20240709T130000,20240709T160000,"C1-3125","APP 5 : Validation de la solution","Objets connectes\n\n"
+20240710T090000,20240710T103000,"C1-5118","APP 5 : Tutorat 2","Objets connectes\n\nT1"
+20240710T110000,20240710T123000,"C1-5118","APP 5 : Tutorat 2","Objets connectes\n\nT2"
+20240710T133000,20240710T150000,"C1-5118","APP 5 : Tutorat 2","Objets connectes\n\nT3"
+20240711T083000,20240711T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #4","Projet majeur de conception\n\n"
+20240711T083000,20240711T120000,"C1-3010","PMC660 : Rencontre suivi-technique #4","Projet majeur de conception\n\n"
+20240711T083000,20240711T120000,"C1-5013","PMC660 : Rencontre suivi-technique #4","Projet majeur de conception\n\n"
+20240711T083000,20240711T120000,"C1-5103","PMC660 : Rencontre suivi-technique #4","Projet majeur de conception\n\n"
+20240712T090000,20240712T103000,"C1-3035","APP 5 : Consultation pré-examen","Objets connectes\n\n"
+20240712T130000,20240712T160000,"C1-3007","APP 5 : Examen sommatif","Objets connectes\n\n"
+20240712T130000,20240712T170000,"C1-3035","APP 5 : Examen sommatif","Objets connectes\n\nPour les étudiants bénéficiant de mesures d"
+20240715T090000,20240715T103000,"C1-5118","APP 6 : Tutorat 1","propriete des materiaux et alimentation electrique\n\nT1"
+20240715T110000,20240715T123000,"C1-5118","APP 6 : Tutorat 1","propriete des materiaux et alimentation electrique\n\nT2"
+20240715T133000,20240715T150000,"C1-5118","APP 6 : Tutorat 1","propriete des materiaux et alimentation electrique\n\nT3"
+20240717T090000,20240717T120000,"C1-3035","APP 6 : Procédural 1","propriete des materiaux et alimentation electrique\n\n"
+20240718T083000,20240718T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #5","Projet majeur de conception\n\n"
+20240718T083000,20240718T120000,"C1-3010","PMC660 : Rencontre suivi-technique #5","Projet majeur de conception\n\n"
+20240718T083000,20240718T120000,"C1-5013","PMC660 : Rencontre suivi-technique #5","Projet majeur de conception\n\n"
+20240718T083000,20240718T120000,"C1-5103","PMC660 : Rencontre suivi-technique #5","Projet majeur de conception\n\n"
+20240719T090000,20240719T120000,"C1-3024","APP 6 : Laboratoire Batterie","propriete des materiaux et alimentation electrique\n\n"
+20240722T090000,20240722T120000,"C1-3035","APP 6 : Procédural 2","propriete des materiaux et alimentation electrique\n\n"
+20240723T090000,20240723T120000,"C1-3024","APP 6 : Laboratoire - Matériaux","propriete des materiaux et alimentation electrique\n\n"
+20240724T090000,20240724T120000,"C1-4103","APP 6 : Procédural 3","propriete des materiaux et alimentation electrique\n\n"
+20240725T083000,20240725T120000,"C1-2048-1","PMC660 : Rencontre suivi-technique #6","Projet majeur de conception\n\n"
+20240725T083000,20240725T120000,"C1-3010","PMC660 : Rencontre suivi-technique #6","Projet majeur de conception\n\n"
+20240725T083000,20240725T120000,"C1-5013","PMC660 : Rencontre suivi-technique #6","Projet majeur de conception\n\n"
+20240725T083000,20240725T120000,"C1-5103","PMC660 : Rencontre suivi-technique #6","Projet majeur de conception\n\n"
+20240726T103000,20240726T120000,"C1-3035","APP 6 : Consultation pour la résolution de la problématique","propriete des materiaux et alimentation electrique\n\n"
+20240729T083000,20240729T170000,"","PMC660 : Audits d'équipe","Projet majeur de conception\n\n"
+20240729T090000,20240729T103000,"C1-5119","APP 6 : Tutorat 2","propriete des materiaux et alimentation electrique\n\nT1"
+20240729T110000,20240729T123000,"C1-5119","APP 6 : Tutorat 2","propriete des materiaux et alimentation electrique\n\nT2"
+20240729T133000,20240729T150000,"C1-5119","APP 6 : Tutorat 2","propriete des materiaux et alimentation electrique\n\nT3"
+20240730T083000,20240730T170000,"","PMC660 : Audits d'équipe","Projet majeur de conception\n\n"
+20240731T083000,20240731T170000,"","PMC660 : Audits d'équipe","Projet majeur de conception\n\n"
+20240731T090000,20240731T103000,"C1-3035","APP 6 : Consultation pré-examen","propriete des materiaux et alimentation electrique\n\n"
+20240731T130000,20240731T160000,"C1-5103","APP 6 : Examen sommatif","propriete des materiaux et alimentation electrique\n\n"
+20240731T130000,20240731T170000,"C1-5014","APP 6 : Examen sommatif","propriete des materiaux et alimentation electrique\n\nPour les "
+20240801T083000,20240801T170000,"","PMC660 : Audits d'équipe","Projet majeur de conception\n\n"
+20240802T083000,20240802T170000,"","PMC660 : Audits d'équipe","Projet majeur de conception\n\n"
+20240805T080000,20240805T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240806T080000,20240806T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240807T080000,20240807T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240808T080000,20240808T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240809T080000,20240809T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240810T080000,20240810T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240811T080000,20240811T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240812T080000,20240812T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240813T080000,20240813T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
+20240814T080000,20240814T200000,"","Reprise : Période d'examens finaux","Reprise éventuelle des finaux\n\n"
