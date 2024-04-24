@@ -48,6 +48,7 @@ DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
 20240513T090000,20240513T103000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT1"
 20240513T110000,20240513T123000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT2"
 20240513T133000,20240513T150000,"C1-5121","APP 2 : Tutorat 1","nœuds capteurs reseaute\n\nT3"
+20240514T110000,20240514T120000,"","APP 2 : Distribution matériel APP2","nœuds capteurs reseaute\n\nC1-3019"
 20240514T130000,20240514T160000,"C1-4103","APP 2 : Procédural 1","nœuds capteurs reseaute\n\n"
 20240515T130000,20240515T160000,"C1-3014","APP 2 : Laboratoire 2","nœuds capteurs reseaute\n\n"
 20240516T083000,20240516T120000,"C1-2048-1","PMC660 : Coaching #1","Projet majeur de conception\n\n"
