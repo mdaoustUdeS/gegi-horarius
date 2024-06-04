@@ -33,7 +33,7 @@ DTSTART,DTEND,LOCATION,SUMMARY,DESCRIPTION
 2024-05-31 09:00,2024-05-31 12:00,"","APP 3 : Procédural 1","antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)"
 2024-05-31 12:15,2024-05-31 13:15,"","APP 3 : Distribution matériel APP3","antennes et rayonnement\n\nC1-3020"
 2024-06-03 09:00,2024-06-03 12:00,"C1-3024","APP 3 : Laboratoire 1","antennes et rayonnement\n\n"
-2024-06-04 08:30,2024-06-04 11:30,"","APP 3 : Procédural 2","antennes et rayonnement\n\nAu A1-108 (faculté d'éducation)"
+2024-06-04 08:30,2024-06-04 11:30,"C1-3035","APP 3 : Procédural 2","antennes et rayonnement\n\n"
 2024-06-05 13:00,2024-06-05 14:30,"C1-4113","APP 3 : Consultation pour la résolution de la problématique","antennes et rayonnement\n\n"
 2024-06-05 14:30,2024-06-05 15:30,"C1-4113","APP 2 : Consultation Sommatifs APP2","nœuds capteurs reseaute\n\nRappel : Il est strictement interdit "
 2024-06-06 09:40,2024-06-06 10:10,"C1-5121","PMC660 : Coaching #4","Projet majeur de conception\n\n"
