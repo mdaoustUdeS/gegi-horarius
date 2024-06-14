@@ -16,6 +16,7 @@ L'horaire sur horarius est souvent mis à jour, mais on ne peux pas savoir ce qu
   - Heure de début et de fin (`DTSTART` et `DTEND`)
   - Local (`LOCATION`)
   - Titre ou description (`SUMMARY` et `DESCRIPTION`)
+- Publication de formats alternatifs (mirroir, sans couleurs, seulement Free/busy) accessible au https://mdaoustudes.github.io/gegi-horarius/
 
 ## Collaboration
 
