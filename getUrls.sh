@@ -12,7 +12,7 @@ mkdir -p $outputDirectory
 
 #Download icalendar file
 url="https://www.gegi.usherbrooke.ca/horarius/icalendar?key=$HORARIUS_KEY"
-curl $url -o $outputDirectory/cal.ics --insecure --verbose
+curl $url -o $outputDirectory/cal.ics --user-agent "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.5) Gecko/20041206 Thunderbird/1.0" --insecure --verbose
 head $outputDirectory/cal.ics
 dos2unix $outputDirectory/cal.ics
 
