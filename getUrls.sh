@@ -23,6 +23,9 @@ sed -i "s/DTSTAMP.*/DTSTAMP:20220825T000000Z/" $outputDirectory/cal.ics
 awk -f ics2csv.awk $outputDirectory/cal.ics > $outputDirectory/cal.csv
 sort --general-numeric-sort --output $outputDirectory/cal.csv{,} # Sort but ensure header row stay on top. Use Brace expansion to avoid repeating file name.
 
+#Remove "Période d'examens finaux"
+sed -i "/BEGIN:VEVENT/{:a;N;/END:VEVENT/!ba};/SUMMARY:.*Période d'examens finaux/d" $outputDirectory/cal.ics
+
 #Generate no-colors ics file
 sed "/^COLOR/d" $outputDirectory/cal.ics > $outputDirectory/cal-nocolor.ics
 
