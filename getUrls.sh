@@ -33,7 +33,7 @@ sed -i "/BEGIN:VEVENT/{:a;N;/END:VEVENT/!ba};/SUMMARY:.*Période d'examens finau
 sed "/^COLOR/d" $outputDirectory/cal.ics > $outputDirectory/cal-nocolor.ics
 
 #Generate busy ics file
-sed -r "/(COLOR|LOCATION|SUMMARY)/d" $outputDirectory/cal.ics > $outputDirectory/cal-busy.ics
+sed -r "/^(COLOR|LOCATION|SUMMARY)/d" $outputDirectory/cal.ics > $outputDirectory/cal-busy.ics
 sed -i "s/^DESCRIPTION.*/DESCRIPTION:/" $outputDirectory/cal-busy.ics
 
 echo "$0 done!"
