@@ -17,6 +17,8 @@ L'horaire sur horarius est souvent mis à jour, mais on ne peux pas savoir ce qu
   - Local (`LOCATION`)
   - Titre ou description (`SUMMARY` et `DESCRIPTION`)
 - Publication de formats alternatifs (mirroir, sans couleurs, seulement Free/busy) accessible au https://mdaoustudes.github.io/gegi-horarius/
+  - Ajout de la propriété `REFRESH-INTERVAL` pour que les clients de calendriers s'actualisent à chaque jours
+  - Suppression des blocs d'examens `Période d'examens finaux`
 
 ## Collaboration
 
