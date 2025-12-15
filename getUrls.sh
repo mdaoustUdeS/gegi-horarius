@@ -19,6 +19,9 @@ dos2unix $outputDirectory/cal.ics
 #Ensure DTSTAMP is stable
 sed -i "s/DTSTAMP.*/DTSTAMP:20220825T000000Z/" $outputDirectory/cal.ics
 
+# Ensure mirror feed refresh daily
+sed -i '/BEGIN:VCALENDAR/a REFRESH-INTERVAL;VALUE=DURATION:P1D' $outputDirectory/cal.ics
+
 #Generate csv from ics
 awk -f ics2csv.awk $outputDirectory/cal.ics > $outputDirectory/cal.csv
 sort --general-numeric-sort --output $outputDirectory/cal.csv{,} # Sort but ensure header row stay on top. Use Brace expansion to avoid repeating file name.
